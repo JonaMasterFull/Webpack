@@ -1,6 +1,6 @@
 # WebPack Started
 
-Este es el proyecto incial para crear aplicaciones utilizando webpack.
+Este es el proyecto incial es para crear aplicaciones utilizando webpack. En JavaScript
 
 ### Notas
 Recuerden reconstruir los modulos de Node:
